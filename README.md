@@ -17,8 +17,7 @@
 14. Future Scope  
 15. Technology Stack  
 16. Use Cases  
-17. Author and Guide  
-18. License  
+17. Author
 
 ---
 
