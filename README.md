@@ -1,4 +1,4 @@
-# Contactless Fingerprint Recognition using Prototypical Networks
+# Contactless Fingerprint Recognition using CNN and Prototypical Networks
 
 > A few-shot learning–based contactless fingerprint recognition system that uses Prototypical Networks to enable accurate, hygienic, and efficient biometric authentication with minimal labeled data.
 
