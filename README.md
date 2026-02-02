@@ -1,5 +1,7 @@
 # Contactless Fingerprint Recognition using Prototypical Networks
 
+> A few-shot learning–based contactless fingerprint recognition system that uses Prototypical Networks to enable accurate, hygienic, and efficient biometric authentication with minimal labeled data.
+
 ## 📌 Table of Contents
 - <a href="#-introduction">Introduction</a>
 - <a href="#-background-and-motivation">Background and Motivation</a>
