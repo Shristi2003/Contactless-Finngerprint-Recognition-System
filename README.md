@@ -1,23 +1,26 @@
 # Contactless Fingerprint Recognition using Prototypical Networks
 
-## Table of Contents
-1. Introduction  
-2. Background and Motivation  
-3. Problem Definition  
-4. Key Challenges  
-5. Proposed Approach  
-6. Model Architecture  
-7. Few-Shot Learning with Prototypical Networks  
-8. Training Methodology  
-9. Inference Methodology  
-10. Distance Metric and Decision Threshold  
-11. Results and Observations  
-12. Advantages of the Proposed System  
-13. Limitations  
-14. Future Scope  
-15. Technology Stack  
-16. Use Cases  
-17. Author
+## 📌 Table of Contents
+- <a href="#-introduction">Introduction</a>
+- <a href="#-background-and-motivation">Background and Motivation</a>
+- <a href="#-problem-definition">Problem Definition</a>
+- <a href="#-key-challenges">Key Challenges</a>
+- <a href="#-proposed-approach">Proposed Approach</a>
+- <a href="#-model-architecture">Model Architecture</a>
+- <a href="#-few-shot-learning-with-prototypical-networks">Few-Shot Learning with Prototypical Networks</a>
+- <a href="#-training-methodology">Training Methodology</a>
+- <a href="#-inference-methodology">Inference Methodology</a>
+- <a href="#-distance-metric-and-decision-threshold">Distance Metric and Decision Threshold</a>
+- <a href="#-results-and-observations">Results and Observations</a>
+- <a href="#-advantages-of-the-proposed-system">Advantages of the Proposed System</a>
+- <a href="#-limitations">Limitations</a>
+- <a href="#-future-scope">Future Scope</a>
+- <a href="#-technology-stack">Technology Stack</a>
+- <a href="#-project-structure-suggested">Project Structure</a>
+- <a href="#-use-cases">Use Cases</a>
+- <a href="#-author-and-guide">Author and Guide</a>
+- <a href="#-license">License</a>
+
 
 ---
 
