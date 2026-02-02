@@ -3,7 +3,7 @@
 ## 📌 Table of Contents
 - <a href="#-introduction">Introduction</a>
 - <a href="#-background-and-motivation">Background and Motivation</a>
-- <a href="#-problem-definition">Problem Definition</a>
+- <a href="#-problem-statement">Problem Statement</a>
 - <a href="#-key-challenges">Key Challenges</a>
 - <a href="#-proposed-approach">Proposed Approach</a>
 - <a href="#-model-architecture">Model Architecture</a>
@@ -42,7 +42,7 @@ Prototypical Networks are particularly well-suited for biometric recognition bec
 
 ---
 
-## 3. Problem Definition
+## 3. Problem Statement
 The goal of this project is to design a fingerprint recognition system that:
 - Works reliably with **very limited labeled samples per identity**
 - Can classify unseen fingerprints accurately
